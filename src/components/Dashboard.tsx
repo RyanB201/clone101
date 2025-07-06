@@ -1,5 +1,3 @@
-import React from 'react';
-
 const stats = [
   { label: 'Total Revenue', value: '$45,231.89', change: '+20.1% from last month', icon: '$' },
   { label: 'Subscriptions', value: '+2350', change: '+180.1% from last month', icon: <svg className='w-4 h-4 inline' fill='none' stroke='currentColor' strokeWidth='2' viewBox='0 0 24 24'><path strokeLinecap='round' strokeLinejoin='round' d='M12 4v16m8-8H4'></path></svg> },
