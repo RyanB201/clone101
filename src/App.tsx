@@ -1,3 +1,4 @@
+// Trigger redeploy: ensure Vercel picks up latest changes
 import HeroSection from './HeroSection';
 import './App.css';
 
